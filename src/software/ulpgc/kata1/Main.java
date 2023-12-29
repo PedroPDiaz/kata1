@@ -9,6 +9,5 @@ public class Main {
 
         System.out.println(person1.toString());
         System.out.println(person2.toString());
-
     }
 }
